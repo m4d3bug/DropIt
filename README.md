@@ -38,6 +38,8 @@ Preparation:
 1. Rename `docker-compose.yml.example` to `docker-compose.yml`
 2. Rename `.env.example` to `.env`
 3. Fill in the missing details in `.env` file
+4. Change the max upload in Droplt/public/js/main.js
+5. Change the max upload diplay in Droplt/view/index.ejs
 
 Boot:
 ```bash

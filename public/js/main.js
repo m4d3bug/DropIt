@@ -1,4 +1,4 @@
-const MAX_SIZE = 20;
+const MAX_SIZE = 30720;
 const MAX_FILE = 1;
 
 let uploaded = false;
